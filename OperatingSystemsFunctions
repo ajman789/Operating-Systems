@@ -1,8 +1,9 @@
 Here is a brief description of the Management features that go into a computers Operating System.
 Process manager - is typically a GUI that should all of the programs that are running on your computer. Also known as a task manager.
 You man also access a task manager by pressing Ctrl + Alt + Del on your keyboard.
-Memory Manager shows how much of your RAM usage % is being used on a 0% to 100% scale.
+Memory Manager - shows how much of your RAM usage % is being used on a 0% to 100% scale.
+If your memory is running high. It may be a good time to find what is demanding so much Memory and possibly close that application in order to keep your computer
+functioning at full performance.
+Device Manager - shows all of the hardware that is involved with your computer. It also helps manage driver softwares for your hardware.
 
-Device Manager shows all of the hardware that is involved with your computer. It also helps manage driver softwares for your hardware.
-
-File Manager is your computers file and folder navigation GUI that directs users to storage areas such as My Documents and My Pictures.
+File Manager - is your computers file and folder navigation GUI that directs users to storage areas such as My Documents and My Pictures.
